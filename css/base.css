@@ -22,3 +22,17 @@ main, header{
 @media(min-width:768px){
    
 } */
+html{
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+body{
+    width:100%;
+    height:1055px;
+    max-width:960px;
+}
+main{
+    display:flex;
+    flex-direction: column;
+}

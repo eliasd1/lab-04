@@ -1,0 +1,24 @@
+/* nav,div{
+    text-align: center;
+}
+html,body{
+    display:flex;
+    flex-direction: column;
+}
+html{
+    height:100%;
+}
+body{
+   width:100%; 
+   min-height:1055px;
+}
+
+main, header{
+    min-width:480px;
+    max-width:960px;
+    width:100%;
+    margin:auto;
+}
+@media(min-width:768px){
+   
+} */

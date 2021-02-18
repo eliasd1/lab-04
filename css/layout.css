@@ -1,0 +1,24 @@
+/* header{
+    height: 7.109004739%;
+}
+aside{
+    height:15.306122449%;
+}
+@media(min-width: 768px){
+    body{
+        margin:auto;
+    }
+    main section,aside{
+        float:left;
+    }
+
+    aside{
+        width:20.833333333%;
+    }
+    .dividedSection{
+        width:39.583333333%;
+    }
+    section:last-child{
+        width:79.166666666%;
+    }
+} */
